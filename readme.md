@@ -956,6 +956,7 @@ of Apache Hadoop. https://hive.apache.org/ .License: [Apache 2](http://www.apach
 ### 18. Headless Browsers
 *A headless browser is a web browser without a graphical user interface. Headless browsers provide automated control of a web page in an environment similar to popular web browsers, but are executed via a command line interface or using network communication.*
 [Up](#useful-java-links)
+
 1. [Jaunt](http://jaunt-api.com/) - Jaunt is a new, free, Java library for web-scraping & web-automation, including JSON querying. The library provides an ultra-light headless browser (ie, no GUI).
 1. [Ghost Driver](https://github.com/detro/ghostdriver) - Ghost Driver is an implementation of the Remote WebDriver Wire protocol, using PhantomJS as back-end.
 1. [jBrowserDriver](https://github.com/MachinePublishers/jBrowserDriver) - A programmable, embedded web browser driver compatible with the Selenium WebDriver spec -- fast, headless, WebKit-based, 100% pure Java, and no browser dependencies.
