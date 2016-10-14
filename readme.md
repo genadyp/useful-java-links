@@ -59,7 +59,8 @@ This is a fork of [awesome link](https://github.com/akullpp/awesome-java) with n
     - [14. Document Processing (XLS, DOC and PDF)](#14-document-processing-xls-doc-and-pdf)
     - [15. Native](#15-native)
     - [16. XML and SOAP](#16-xml-and-soap)
-    - [17. Geospatial Service Interation](#17-geospatial-service-interation)    
+    - [17. Geospatial Service Interation](#17-geospatial-service-interation)  
+    - [18. Headless Browsers](#18-headless-browsers)
 
 - [IV. Testing](#iv-testing)
     - [1. Testing](#1-testing)
@@ -951,6 +952,16 @@ of Apache Hadoop. https://hive.apache.org/ .License: [Apache 2](http://www.apach
 1.  [JTS Topology Suite](http://www.vividsolutions.com/jts/JTSHome.htm) - An API of 2D spatial predicates and functions. License: [GNU Lesser 3](http://www.gnu.org/copyleft/lesser.html). ![business friendly license](https://github.com/Vedenin/useful-java-links/blob/master/img/business-friendly.png?raw=true)
 1.  [Mapsforge](https://github.com/mapsforge/mapsforge/) - Software for the rendering of maps based on OpenStreetMap data. License: [GNU Lesser 3](http://www.gnu.org/copyleft/lesser.html). ![business friendly license](https://github.com/Vedenin/useful-java-links/blob/master/img/business-friendly.png?raw=true)
 1.  [Spatial4j](https://github.com/locationtech/spatial4j/) - General purpose spatial/geospatial ASL licensed open-source Java library.  License: [Apache 2](http://www.apache.org/licenses/LICENSE-2.0). ![business friendly license](https://github.com/Vedenin/useful-java-links/blob/master/img/business-friendly.png?raw=true)
+
+### 18. Headless Browsers
+*A headless browser is a web browser without a graphical user interface. Headless browsers provide automated control of a web page in an environment similar to popular web browsers, but are executed via a command line interface or using network communication.*
+[Up](#useful-java-links)
+1. [Jaunt](http://jaunt-api.com/) - Jaunt is a new, free, Java library for web-scraping & web-automation, including JSON querying. The library provides an ultra-light headless browser (ie, no GUI).
+1. [Ghost Driver](https://github.com/detro/ghostdriver) - Ghost Driver is an implementation of the Remote WebDriver Wire protocol, using PhantomJS as back-end.
+1. [jBrowserDriver](https://github.com/MachinePublishers/jBrowserDriver) - A programmable, embedded web browser driver compatible with the Selenium WebDriver spec -- fast, headless, WebKit-based, 100% pure Java, and no browser dependencies.
+1. [Ui4j](https://github.com/ui4j/ui4j) - Ui4j is a web-automation library for Java. It is a thin wrapper library around the JavaFx WebKit Engine, and can be used for automating the use of web pages and for testing web pages.
+1. [Chromium Embedded Framework (CEF)](https://bitbucket.org/chromiumembedded/cef) - CEF focuses on facilitating embedded browser use cases in third-party applications.
+
 
 ## IV. Testing
 ### 1. Testing
