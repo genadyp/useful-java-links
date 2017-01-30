@@ -1172,6 +1172,16 @@ Teamware, ClearCase, Perforce, Monotone and Bazaar. License: [CDDL 1.0](http://o
 1.  [Zulu OpenJDK](http://www.azul.com/downloads/zulu/) - OpenJDK builds for Windows, Linux, and Mac OS X through Java 8. License: [GNU 2](https://en.wikipedia.org/wiki/GNU_General_Public_License). ![impossible proprietary code linking license](https://github.com/Vedenin/useful-java-links/blob/master/img/impossible-proprietary-code-linking.png?raw=true)
 1.  [Zulu OpenJDK 9](http://zulu.org/zulu-9-pre-release-downloads/) - Early access OpenJDK 9 builds for Windows, Linux, and Mac OS X. License: [GNU 2](https://en.wikipedia.org/wiki/GNU_General_Public_License). ![impossible proprietary code linking license](https://github.com/Vedenin/useful-java-links/blob/master/img/impossible-proprietary-code-linking.png?raw=true)
 
+*Java style guides
+
+1. [Google Java style guide](https://google.github.io/styleguide/javaguide.html)
+1. [Google Java style guide for android](http://source.android.com/source/code-style.html)
+1. [Twitter style guide](https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md)
+1. [Official Java code conventions](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
+1. [OpenJDK guidelines](http://cr.openjdk.java.net/~alundblad/styleguide/index-v6.html)
+1. [Mozilla guidelines](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style#Java_practices)
+
+
 ## VI. Program languages and applications, that was written with Java
 ### 1.  Program languages, that was written with Java
 [Up](#useful-java-links)
