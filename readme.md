@@ -786,6 +786,8 @@ of Apache Hadoop. https://hive.apache.org/ .License: [Apache 2](http://www.apach
 1.  [Mashape Unirest java](https://github.com/Mashape/unirest-java) Unirest in Java: Simplified, lightweight HTTP client library.. License: [MIT](https://opensource.org/licenses/MIT) , github's star - 537. ![business friendly license](https://github.com/Vedenin/useful-java-links/blob/master/img/business-friendly.png?raw=true)
 1.  [Sshj](https://github.com/hierynomus/sshj) ssh, scp and sftp for java. License: [Apache 2](http://www.apache.org/licenses/LICENSE-2.0) , github's star - 500. ![business friendly license](https://github.com/Vedenin/useful-java-links/blob/master/img/business-friendly.png?raw=true)
 1.  [Netflix Feign](https://github.com/Netflix/feign) Feign makes writing java http clients easier. License: [Apache 2](http://www.apache.org/licenses/LICENSE-2.0) , github's star - 485. ![business friendly license](https://github.com/Vedenin/useful-java-links/blob/master/img/business-friendly.png?raw=true)
+1.  [JSch](http://www.jcraft.com/jsch/) JSch is a pure Java implementation of SSH2.
+
 
 ### 5. Rest Frameworks
 *Frameworks specifically for creating RESTful services.*
